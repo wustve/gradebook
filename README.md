@@ -1,5 +1,5 @@
 # Gradebook
-This was a project for my grade 12 computer science class.
+This was a project for my grade 12 computer science class. (Aesthetics were not a priority at the time)
 
 ![login](https://cdn.discordapp.com/attachments/630912200491532290/796114408450818058/unknown.png)
 ![home](https://cdn.discordapp.com/attachments/630912200491532290/796463495562133572/unknown.png)
